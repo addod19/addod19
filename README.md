@@ -9,3 +9,5 @@
 - ⚡ Fun fact: Soccer, Movies, Music, Dance
 
 </prev>
+
+[![Daniels' github stats](https://github-readme-stats.vercel.app/api?username=addod19)](https://github.com/addod19/github-readme-stats)
