@@ -10,4 +10,4 @@
 
 </prev>
 
-[![Daniels' github stats](https://github-readme-stats.vercel.app/api?username=addod19)](https://github.com/addod19/github-readme-stats)
+[![Daniels' github stats](https://github-readme-stats.vercel.app/api?username=addod19&show_icons=true&theme=radical)](https://github.com/addod19/github-readme-stats)
