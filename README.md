@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Available for remote opportunities
 
 <prev>
   
