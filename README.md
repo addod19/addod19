@@ -3,7 +3,7 @@
 <prev>
   
 - 🌱 I’m currently `job searching` in Microverse Software Development Program
-- I am currently learning and building projects with the MERN Stack technology
+- I am currently performing code reviews and cementing my knowledge in the React and Rails technology
 - 🤔 I’m looking for new challenges
 - 💬 Ask me about anything
 - 📫 How to reach me: addodaniellarbi@gmail.com || info@daniellarbiaddo.com
