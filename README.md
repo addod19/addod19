@@ -2,8 +2,8 @@
 
 <prev>
   
-- 🌱 I’m currently `job searching` in Microverse Software Development Program
-- I am currently performing code reviews and cementing my knowledge in the React and Rails technology
+- 🌱 I’m currently `working full time (contract)` as Assistant Software Engineer at Dishrack
+- I am currently working and improving on the codebase, adding functionalities, etc
 - 🤔 I’m looking for new challenges
 - 💬 Ask me about anything
 - 📫 How to reach me: addodaniellarbi@gmail.com || info@daniellarbiaddo.com
