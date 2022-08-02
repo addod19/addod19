@@ -2,7 +2,7 @@
 
 <prev>
   
-- 🌱 I’m currently `working full time (contract)` as Assistant Software Engineer at Dishrack
+- 🌱 I’m currently `studying vue js`to add up to my existing skills
 - I am currently working and improving on the codebase, adding functionalities, etc
 - 🤔 I’m looking for new challenges
 - 💬 Ask me about anything
