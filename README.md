@@ -2,7 +2,7 @@
 
 <prev>
   
-- 🌱 I’m currently `studying OWASP`to add up to my existing skills
+- 🌱 I’m currently exploring other oppourtunities
 - I am currently working and improving on the codebase, adding functionalities, etc
 - 🤔 I’m looking for new challenges
 - 💬 Ask me about anything
