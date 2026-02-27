@@ -2,7 +2,7 @@
 
 <prev>
   
-- 🌱 I’m currently exploring other oppourtunities
+- 🌱 I’m currently building projects with Flutter and Rails API
 - I am currently working and improving on the codebase, adding functionalities, etc
 - 🤔 I’m looking for new challenges
 - 💬 Ask me about anything
